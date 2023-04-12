@@ -15,4 +15,3 @@ System32 folder does not exist on J:
 02/16/2023 18:37:28, 5df72931dfe603ad9e2d3e63217d2823b7a361c6b57661ee8ab6618471395a31, J:\efi\microsoft\boot\memtest.efi
 10/25/2022 18:20:26, 23340e3ac1b3367a372a01646c58d94d340c050b8e53d9281d43db7096822e33, J:\efi\microsoft\boot\cbmr_driver.efi
 Registry key HKLM:\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity does not exist
-
