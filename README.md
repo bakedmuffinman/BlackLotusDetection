@@ -8,7 +8,7 @@ This creates an output txt file in the c:\temp folder.
 
 Example
 
-DESKTOP-XXXXXXX 
+DESKTOP-211V38J
 System32 folder does not exist on J:
 02/16/2023 18:37:28, c9f4f7298072143f8fc0f5c3645fb1b9e785266d441e35e591b63af94edf1231, J:\efi\microsoft\boot\bootmgfw.efi
 02/16/2023 18:37:28, 52c9104c88b631b48cc02d942418ec2001b354ad1eb34e1299a79f2a4e6d2c0e, J:\efi\microsoft\boot\bootmgr.efi
